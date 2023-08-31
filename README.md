@@ -1,4 +1,4 @@
-# marg
+# marge
 class exercise
 
 ## Hello World!
